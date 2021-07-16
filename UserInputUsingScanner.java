@@ -10,6 +10,7 @@ public class UserInputUsingScanner
 		System.out.println("Enter First Value : ");
 		int firstUserInput = scobj.nextInt();
 		System.out.println("Your Input : " + firstUserInput);
+		System.out.println("Thanks");
 		scobj.close();
 
 	}
